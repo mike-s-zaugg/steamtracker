@@ -6,7 +6,7 @@
 
 A simple, straightforward PHP script designed to fetch and display essential information about a Steam user's profile and game library using the Steam Web API. Just enter a Steam ID, and instantly view recently played games, most played titles, and total accumulated playtime.
 
-**[![Demo](https://sxndr.com/steam)**
+**[Demo](https://sxndr.com/steam)**
 
 ✨ **Features**
 
